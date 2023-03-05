@@ -7,7 +7,7 @@ description: >
   Google search results) and in your feed.xml site description.
 
 baseurl: # the subpath of the site
-url: https://chrisahn1001.github.io # the base hostname & protocol for your site
+url: https://chrisahn1001.github.io/blog # the base hostname & protocol for your site
 
 permalink: /:year-:month/:title
 timezone:
